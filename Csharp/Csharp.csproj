@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Checks\CheckGender.cs" />
+    <Compile Include="Checks\CheckMonth.cs" />
+    <Compile Include="Checks\CheckPesel.cs" />
+    <Compile Include="Checks\CheckYear.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
